@@ -1,6 +1,8 @@
 # Conways-Game-Of-Life
 
-Python implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). Symulation uses matplotlib library and can be opened either with given or random data generator by numpy module.
+Python implementation of [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). 
+
+Symulation uses matplotlib library and can be opened either with given or random data generator by numpy module.
 Matplotlib animation initialized in this program is infinite. You can pause the animation by just clicking on the screen. In order to exit, just exit the matplotlib window
 
 ## Requirements
